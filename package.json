@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "earrontwitty <ejtwitty@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
